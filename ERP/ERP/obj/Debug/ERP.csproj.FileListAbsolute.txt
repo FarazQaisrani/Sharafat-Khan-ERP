@@ -1,0 +1,60 @@
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\bin\Debug\PC_DB.accdb
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Approve.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Form1.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.GRN.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Invoice.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.InvoiceRec.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Login.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Main.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Myconnection.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.POApprove.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.PurchaseOrder.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.POSUForm.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Products.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.ProductsOrdrer.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.PurchOrdApprove.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.SalesOrder.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.SOApprove.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.SUForm.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Vendor.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.Ven_Approve.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.vsuform.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.DeliveryChallan.resources
+C:\Users\Sharafat Khan\Desktop\ERP New\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\bin\Debug\PC_DB.accdb
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Approve.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.DeliveryChallan.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Form1.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.GRN.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Invoice.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.InvoiceRec.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Login.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Main.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Myconnection.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.POApprove.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.PurchaseOrder.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.POSUForm.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Products.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.ProductsOrdrer.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.PurchOrdApprove.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.SalesOrder.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.SOApprove.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.SUForm.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Vendor.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.Ven_Approve.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.vsuform.resources
+C:\Users\Sharafat Khan\Desktop\Sharafat Khan ERP\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
